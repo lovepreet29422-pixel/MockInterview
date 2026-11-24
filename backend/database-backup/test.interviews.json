@@ -1,0 +1,785 @@
+[{
+  "_id": {
+    "$oid": "6ac63e35fd3e2fc483d5f8fa"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "dwd"
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "fw"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "fwf"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "fwf"
+    },
+    {
+      "question": "What is React?",
+      "answer": "fwf"
+    }
+  ],
+  "answers": [],
+  "score": 0,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-07T12:42:29.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac63ef3fd3e2fc483d5f8fb"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "Hello, my name is Lovepreet Kaur. I am a motivated and hardworking person with an interest in web development and technology.\n\nI have been learning HTML, CSS, JavaScript, React, and Tailwind CSS. I enjoy creating websites and working on projects that help me improve my technical and problem-solving skills.\n\nI consider myself a quick learner, and I am always willing to learn new technologies and improve my skills. My goal is to build a successful career in the IT field and become a skilled software developer.\n\nThank you for giving me the opportunity to introduce myself."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "HTML, which stands for HyperText Markup Language, is the standard language used to create and structure web pages. It helps developers add different elements such as headings, paragraphs, images, links, buttons, tables, and forms to a website. HTML uses tags to define the structure and content of a webpage. It is one of the basic technologies of web development and is usually used together with CSS for styling and JavaScript for adding functionality."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS, which stands for Cascading Style Sheets, is used to design and style web pages. It controls the appearance of HTML elements, such as colors, fonts, spacing, sizes, borders, and layouts. CSS helps make websites attractive, organized, and responsive on different screen sizes. It is commonly used with HTML to create the structure and design of a website."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript, commonly known as JS, is a programming language used to make websites interactive and dynamic. It allows developers to add features such as buttons, animations, form validation, pop-ups, and changing webpage content. JavaScript can work with HTML and CSS to create functional and interactive web applications. It is also widely used for frontend development, backend development, and building modern web applications."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library used for building interactive and dynamic user interfaces, especially for web applications. It was developed by Facebook and is now maintained by Meta and the open-source community. React uses reusable components, which make it easier to build and manage large applications. It also uses a virtual DOM to efficiently update the webpage when data changes. React is commonly used with HTML, CSS, and JavaScript to create modern and responsive web applications."
+    }
+  ],
+  "answers": [],
+  "score": 87,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-07T12:45:39.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac63f6dfd3e2fc483d5f8fc"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "Hello, my name is Lovepreet Kaur. I am a motivated and hardworking person with an interest in web development and technology.\n\nI have been learning HTML, CSS, JavaScript, React, and Tailwind CSS. I enjoy creating websites and working on projects that help me improve my technical and problem-solving skills.\n\nI consider myself a quick learner, and I am always willing to learn new technologies and improve my skills. My goal is to build a successful career in the IT field and become a skilled software developer.\n\nThank you for giving me the opportunity to introduce myself."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "HTML, which stands for HyperText Markup Language, is the standard language used to create and structure web pages. It helps developers add different elements such as headings, paragraphs, images, links, buttons, tables, and forms to a website. HTML uses tags to define the structure and content of a webpage. It is one of the basic technologies of web development and is usually used together with CSS for styling and JavaScript for adding functionality."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS, which stands for Cascading Style Sheets, is used to design and style web pages. It controls the appearance of HTML elements, such as colors, fonts, spacing, sizes, borders, and layouts. CSS helps make websites attractive, organized, and responsive on different screen sizes. It is commonly used with HTML to create the structure and design of a website."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript, commonly known as JS, is a programming language used to make websites interactive and dynamic. It allows developers to add features such as buttons, animations, form validation, pop-ups, and changing webpage content. JavaScript can work with HTML and CSS to create functional and interactive web applications. It is also widely used for frontend development, backend development, and building modern web applications."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library used for building interactive and dynamic user interfaces, especially for web applications. It was developed by Facebook and is now maintained by Meta and the open-source community. React uses reusable components, which make it easier to build and manage large applications. It also uses a virtual DOM to efficiently update the webpage when data changes. React is commonly used with HTML, CSS, and JavaScript to create modern and responsive web applications."
+    }
+  ],
+  "answers": [],
+  "score": 87,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-07T12:47:41.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6accb8a1b22a8cf1d53b5a3d"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "x"
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "c x"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "csd"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "dvs"
+    },
+    {
+      "question": "What is React?",
+      "answer": "fb"
+    }
+  ],
+  "answers": [],
+  "score": 1,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-12T10:38:25.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6accb916b22a8cf1d53b5a3e"
+  },
+  "role": "Full Stack Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "v sd"
+    },
+    {
+      "question": "What is frontend development?",
+      "answer": "dwe"
+    },
+    {
+      "question": "What is backend development?",
+      "answer": "rge"
+    },
+    {
+      "question": "What is an API?",
+      "answer": "ger"
+    },
+    {
+      "question": "What is a database?",
+      "answer": "re"
+    }
+  ],
+  "answers": [],
+  "score": 0,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-12T10:40:22.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ad093a412b36f4fc47d0286"
+  },
+  "role": "Full Stack Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself as a full stack developer.",
+      "answer": "my name is Lucky Kaur"
+    },
+    {
+      "question": "How does React communicate with an Express backend?",
+      "answer": "my name is Lucky Kaur"
+    },
+    {
+      "question": "Explain how you connect a Node.js application to MongoDB.",
+      "answer": "No answer provided"
+    },
+    {
+      "question": "How do you handle user authentication?",
+      "answer": "No answer provided"
+    },
+    {
+      "question": "Describe a full stack project you have built.",
+      "answer": "No answer provided"
+    }
+  ],
+  "answers": [],
+  "score": 2,
+  "durationMinutes": 1,
+  "date": {
+    "$date": "2026-10-15T08:49:40.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ad5a8cb8f7550e3ffe6699f"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "i my name is anjli  .my graduation is complete bca at govt bikrm collage now i study leran frontedhed devolper"
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "html  stands for hyper text markup language it is use to devlop web page .   in which html we use some tags like <p> tag <b> <i> tag formting tag etc"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "css is cascading style sheet it is use to style html page . it  is use to styleing the page like add photos vides animation       etc"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "java script is a use to logic  i  your websites .it is very usefull language becuse in which many type of feature like opertors  ,loops,condiontanal statement,etc"
+    },
+    {
+      "question": "What is React?",
+      "answer": "react is use to crete a user interface it is   one page of structure like youtube. in which use many type feature likes propes component etc"
+    }
+  ],
+  "answers": [],
+  "score": 53,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-19T05:21:15.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ad5a96f8f7550e3ffe669a0"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "i my name is anjli  .my graduation is complete bca at govt bikrm collage now i study leran frontedhed devolper"
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "html  stands for hyper text markup language it is use to devlop web page .   in which html we use some tags like <p> tag <b> <i> tag formting tag etc"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "css is cascading style sheet it is use to style html page . it  is use to styleing the page like add photos vides animation       etc"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "java script is a use to logic  i  your websites .it is very usefull language becuse in which many type of feature like opertors  ,loops,condiontanal statement,etc"
+    },
+    {
+      "question": "What is React?",
+      "answer": "react is use to crete a user interface it is   one page of structure like youtube. in which use many type feature likes propes component etc"
+    }
+  ],
+  "answers": [],
+  "score": 56,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-19T05:23:59.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ad5ac438f7550e3ffe669a1"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "ave"
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "feeftr"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "dsvds"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "frgr"
+    },
+    {
+      "question": "What is React?",
+      "answer": "ds"
+    }
+  ],
+  "answers": [],
+  "score": 0,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-10-19T05:36:03.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6addf0227e89403720e4d0c1"
+  },
+  "role": "UI/UX Designer",
+  "experience": "Intermediate",
+  "questions": [
+    {
+      "question": "How do you conduct user research?",
+      "answer": "by questionaures, quizez"
+    },
+    {
+      "question": "What is a design system?",
+      "answer": "to prepare a template or virtual design"
+    },
+    {
+      "question": "How do you create user personas?",
+      "answer": "by collecting info from user"
+    },
+    {
+      "question": "How do you test a design?",
+      "answer": "by using the added features"
+    },
+    {
+      "question": "What makes a good user interface?",
+      "answer": "an attractive webpage that attracts the user"
+    }
+  ],
+  "answers": [],
+  "score": 24,
+  "durationMinutes": 1,
+  "date": {
+    "$date": "2026-10-25T12:03:46.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aec6314deae86b7249e2509"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "lavi",
+      "success": true,
+      "score": 0,
+      "feedback": "The response 'lavi' is incomplete and fails to address the question. In an interview context, 'Tell me about yourself' requires a brief summary of your professional background, technical skills, relevant projects, and career aspirations as a Frontend Developer.",
+      "strengths": [
+        "Attempted to respond to the prompt.",
+        "Gave a concise starting point."
+      ],
+      "improvements": [
+        "Include details about your educational background, technical stack (e.g., HTML, CSS, JavaScript), and frontend projects.",
+        "Structure your answer using a professional format that covers your past experiences, current skills, and future career goals."
+      ],
+      "idealAnswer": "Hello, my name is Lavi. I am an aspiring Frontend Developer with a solid foundation in HTML, CSS, JavaScript, and modern frameworks like React. I recently completed my studies in Computer Science, during which I developed a few web application projects focused on responsive design and smooth user experiences. I am passionate about crafting clean code and intuitive UIs, and I am excited about the opportunity to grow my skills and contribute to web development projects at your company."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "hyper text markup language",
+      "success": true,
+      "score": 50,
+      "feedback": "You correctly identified what HTML stands for, which shows basic foundational knowledge. However, simply stating the acronym does not explain what HTML actually does. Even as a beginner, it is important to briefly describe its purpose and role in creating web pages.",
+      "strengths": [
+        "Accurately expanded the HTML acronym.",
+        "Demonstrated correct foundational terminology."
+      ],
+      "improvements": [
+        "Explain the primary purpose of HTML in building the structure of web pages.",
+        "Mention core concepts such as tags, elements, and how browsers render HTML."
+      ],
+      "idealAnswer": "HTML stands for HyperText Markup Language. It is the standard markup language used to create and structure content on the web. It uses tags and elements to define components like text, headings, links, images, and forms, serving as the essential building block of web pages."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "cascading style sheets",
+      "success": true,
+      "score": 40,
+      "feedback": "While you correctly identified what the acronym CSS stands for, your answer is extremely brief and lacks an explanation of its purpose and function in web development.",
+      "strengths": [
+        "Accurately identified the full form of the CSS acronym.",
+        "Provided a direct and correct expansion."
+      ],
+      "improvements": [
+        "Elaborate on the role of CSS in styling and layout design for HTML elements.",
+        "Mention how CSS works alongside HTML and JavaScript to create interactive, responsive web applications."
+      ],
+      "idealAnswer": "CSS stands for Cascading Style Sheets. It is a styling language used to control the visual presentation, layout, and design of web pages written in HTML. With CSS, developers can customize colors, fonts, spacing, alignment, and create responsive designs for different screen sizes."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "javascript",
+      "success": true,
+      "score": 0,
+      "feedback": "The candidate simply repeated the keyword 'javascript' without providing any explanation, definition, or context. Even for a beginner level, an answer should explain what JavaScript is and its role in web development.",
+      "strengths": [
+        "Accurately spelled the topic name.",
+        "Recognized the subject of the question."
+      ],
+      "improvements": [
+        "Provide a complete definition explaining that JavaScript is a programming language used for web development.",
+        "Mention key characteristics such as client-side scripting, dynamic behavior, and how it works alongside HTML and CSS."
+      ],
+      "idealAnswer": "JavaScript is a high-level, dynamic programming language primarily used to build interactive and dynamic user interfaces on the web. Along with HTML and CSS, it is one of the core technologies of web development. While HTML provides structure and CSS handles styling, JavaScript allows developers to add functionality, handle user events, manipulate the DOM, and communicate with backend servers."
+    },
+    {
+      "question": "What is React?",
+      "answer": "react",
+      "success": true,
+      "score": 10,
+      "feedback": "The response simply repeats the topic name without providing any explanation, definition, or context regarding what React is. Even for a beginner level, a full sentence explaining its core function is expected.",
+      "strengths": [
+        "Identified the core subject of the question correctly",
+        "Provided a response instead of leaving the answer completely blank"
+      ],
+      "improvements": [
+        "Define React clearly as a JavaScript library used for building user interfaces",
+        "Mention key features such as component-based architecture, declarative UI, or the Virtual DOM"
+      ],
+      "idealAnswer": "React is an open-source JavaScript library developed by Meta for building user interfaces, primarily for single-page applications. It allows developers to create reusable UI components and uses a Virtual DOM to efficiently manage and render updates to the user interface."
+    }
+  ],
+  "answers": [],
+  "score": 20,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-11-05T11:05:56.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aed29d83062684ae2d093ab"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "hff",
+      "score": 0,
+      "communication": 0,
+      "technicalKnowledge": 0,
+      "relevance": 0,
+      "answerStructure": 0,
+      "feedback": "The response provided consists of random characters and does not address the question. An introductory answer should summarize your background, passion for frontend development, relevant projects, and career goals.",
+      "strengths": [],
+      "improvements": [
+        "Provide a meaningful, coherent introduction about your professional background and interests.",
+        "Structure your response to cover past experience, present skills, and future aspirations.",
+        "Ensure all submitted answers are complete and clearly written."
+      ],
+      "idealAnswer": "Hello! I am a passionate beginner frontend developer with a strong foundation in HTML, CSS, and JavaScript. I recently graduated with a degree in Computer Science, where I built several responsive web applications, including an e-commerce storefront and a weather dashboard using React. I enjoy translating UI/UX designs into clean, accessible code, and I am excited about the opportunity to contribute and grow with your engineering team."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "gngtng",
+      "score": 0,
+      "communication": 0,
+      "technicalKnowledge": 0,
+      "relevance": 0,
+      "answerStructure": 0,
+      "feedback": "The answer appears to be placeholder text or random keystrokes rather than an explanation of HTML. No technical knowledge was demonstrated.",
+      "strengths": [],
+      "improvements": [
+        "Define what HTML stands for and its core role in web development.",
+        "Mention common HTML elements, semantic markup, and how it forms the structure of web pages."
+      ],
+      "idealAnswer": "HTML stands for HyperText Markup Language. It is the standard markup language used to build the structure of web pages. HTML uses elements and tags, such as <header>, <p>, and <div>, to organize and display text, images, and other multimedia content on the web. Using semantic HTML is especially important for accessibility and SEO."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "ggvng",
+      "score": 0,
+      "communication": 0,
+      "technicalKnowledge": 0,
+      "relevance": 0,
+      "answerStructure": 0,
+      "feedback": "The submission contains non-meaningful text. To demonstrate frontend proficiency, you need to clearly define CSS and its role in styling web applications.",
+      "strengths": [],
+      "improvements": [
+        "Explain what CSS stands for and its primary function in styling HTML elements.",
+        "Discuss core layout concepts such as Flexbox, CSS Grid, and responsive design media queries."
+      ],
+      "idealAnswer": "CSS stands for Cascading Style Sheets. It is the style sheet language used to describe the presentation and visual design of an HTML document. CSS controls layouts, colors, fonts, spacing, and animations. It also enables responsive design through media queries and layout modules like Flexbox and CSS Grid so websites look great across various device sizes."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "njgn",
+      "score": 0,
+      "communication": 0,
+      "technicalKnowledge": 0,
+      "relevance": 0,
+      "answerStructure": 0,
+      "feedback": "The input provided is arbitrary characters and fails to address what JavaScript is or how it functions in modern web development.",
+      "strengths": [],
+      "improvements": [
+        "Define JavaScript as a client-side programming language that enables dynamic interactivity on the web.",
+        "Highlight fundamental features such as DOM manipulation, event handling, and modern ES6+ syntax."
+      ],
+      "idealAnswer": "JavaScript is a high-level, interpreted programming language that adds interactivity and dynamic behavior to web pages. While HTML provides structure and CSS handles styling, JavaScript allows developers to manipulate the DOM, handle user events, validate forms, and fetch data asynchronously from APIs via fetch or AJAX."
+    },
+    {
+      "question": "What is React?",
+      "answer": "nnfn",
+      "score": 0,
+      "communication": 0,
+      "technicalKnowledge": 0,
+      "relevance": 0,
+      "answerStructure": 0,
+      "feedback": "The response is unrecognizable and does not describe React. A frontend candidate should be able to explain the basics of React as a component-based UI library.",
+      "strengths": [],
+      "improvements": [
+        "Explain that React is an open-source JavaScript library developed by Meta for building user interfaces.",
+        "Mention key concepts such as the component-based architecture, JSX, props, state, and the Virtual DOM."
+      ],
+      "idealAnswer": "React is an open-source JavaScript library developed by Meta for building dynamic and reusable user interfaces, primarily for single-page applications. It is based on a component-driven architecture and utilizes a Virtual DOM to optimize rendering performance by only updating the parts of the page that have changed."
+    }
+  ],
+  "answers": [],
+  "score": 0,
+  "durationMinutes": 1,
+  "date": {
+    "$date": "2026-11-06T01:14:00.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af181110b4a280c02f75617"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "Hello, my name is Lovepreet Kaur. I am a passionate and motivated aspiring Full Stack Developer with knowledge of HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. I enjoy developing user-friendly and responsive web applications and solving real-world problems through technology. I have worked on projects like an AI-powered Mock Interview application, where I implemented features such as user authentication, interview evaluation using AI, voice-based interviews, and Razorpay payment integration. I am always eager to learn new technologies, improve my technical skills, and take on new challenges. My goal is to grow as a developer and contribute to meaningful projects.",
+      "score": 80,
+      "communication": 80,
+      "technicalKnowledge": 80,
+      "relevance": 80,
+      "answerStructure": 80,
+      "feedback": "Your introduction is clear, professional, and well-tailored. Highlighting a specific project like the AI-powered Mock Interview app with distinct features (auth, payments, voice integration) immediately gives credibility to your skill set. However, since the role applied for is Frontend Developer, you should focus slightly more on frontend challenges, UI/UX, and state management rather than broad full-stack responsibilities.",
+      "strengths": [
+        "Concise summary of skills and relevant tech stack.",
+        "Mention of a specific, impressive project with concrete features.",
+        "Professional and confident tone."
+      ],
+      "improvements": [
+        "Tailor the summary more toward Frontend Developer responsibilities rather than introducing yourself as an aspiring Full Stack Developer.",
+        "Briefly mention what specifically excites you about frontend development (e.g., responsive design, accessibility, performance)."
+      ],
+      "idealAnswer": "Hi, I'm Lovepreet Kaur, an aspiring Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.js, along with supporting backend knowledge in Node.js and MongoDB. I love building responsive, user-friendly web interfaces and turning complex logic into seamless experiences. Recently, I built an AI-powered Mock Interview application where I implemented voice-based user interaction, responsive layouts, and integrated authentication and payment flows. I am excited to apply my React and modern frontend skills to build polished, performant web applications in this role."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "HTML (HyperText Markup Language) is the standard markup language used to create and structure web pages. It provides the basic structure of a website by using different elements and tags. HTML tells the browser how to display content such as headings, paragraphs, images, links, tables, lists, forms, buttons, and other elements. An HTML document generally starts with the `<!DOCTYPE html>` declaration, followed by the `<html>`, `<head>`, and `<body>` elements. The `<head>` section contains information about the webpage, such as its title, metadata, character encoding, and links to external CSS files, while the `<body>` section contains the visible content displayed to users. HTML provides semantic elements such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>`, which help organize content and improve accessibility and SEO. It also supports forms using elements like `<form>`, `<input>`, `<label>`, `<textarea>`, and `<button>`, allowing users to enter and submit information. HTML works together with CSS and JavaScript: HTML creates the structure, CSS controls the design and layout, and JavaScript adds interactivity and dynamic functionality. Modern HTML5 also supports audio, video, graphics, and multimedia without requiring additional plugins. HTML is easy to learn, platform-independent, and supported by all modern web browsers. It is the foundation of frontend web development, and understanding HTML is essential for creating responsive, accessible, and user-friendly websites.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 90,
+      "relevance": 90,
+      "answerStructure": 80,
+      "feedback": "This is an exceptionally thorough and technically accurate definition of HTML for an entry-level candidate. You hit on core fundamentals: document structure, semantic tags, accessibility, forms, and HTML5 multimedia. The only area to improve is avoiding a textbook recitation; conversational delivery with brief real-world examples makes it sound more natural.",
+      "strengths": [
+        "Mentions modern best practices including semantic HTML, accessibility (a11y), and SEO.",
+        "Accurately explains the basic document skeleton and core tags.",
+        "Explains how HTML relates to CSS and JavaScript."
+      ],
+      "improvements": [
+        "Condense the response slightly to keep interview dialogue engaging and prevent an overly rehearsed, textbook tone.",
+        "Provide a quick real-world example of how semantic markup directly impacts screen readers or accessibility."
+      ],
+      "idealAnswer": "HTML, or HyperText Markup Language, is the foundational building block of the web used to structure content. It uses elements and tags to define headings, paragraphs, media, and interactive forms. Modern HTML5 introduces semantic elements like <header>, <main>, and <article>, which not only make the markup cleaner and more maintainable but also significantly improve SEO and accessibility for assistive technologies like screen readers."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS (Cascading Style Sheets) is a stylesheet language used to design and style HTML webpages. It controls how HTML elements appear in a browser by defining properties such as colors, fonts, backgrounds, borders, margins, padding, width, height, alignment, and spacing. CSS helps developers create attractive, responsive, and user-friendly websites. There are three main ways to apply CSS: inline CSS, internal CSS, and external CSS. Inline CSS is written directly inside an HTML element using the `style` attribute, internal CSS is written inside the `<style>` tag in the HTML document, and external CSS is written in a separate `.css` file and connected to HTML using the `<link>` tag. CSS uses selectors to target HTML elements and apply styles to them. Common selectors include element selectors, class selectors, ID selectors, universal selectors, and attribute selectors. CSS also provides the box model, which consists of content, padding, border, and margin, helping developers control the size and spacing of elements. Modern CSS includes Flexbox and CSS Grid for creating flexible and complex layouts. It also supports transitions, transformations, animations, hover effects, and media queries. Media queries are especially useful for responsive web design because they allow websites to adjust their layout according to different screen sizes, such as mobile phones, tablets, and desktops. CSS works together with HTML and JavaScript: HTML provides the structure, CSS handles the presentation, and JavaScript adds functionality and interactivity. Overall, CSS is an essential technology in frontend development because it improves the appearance, usability, consistency, and responsiveness of websites.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 90,
+      "relevance": 90,
+      "answerStructure": 80,
+      "feedback": "An excellent, comprehensive explanation of CSS covering styling methods, selectors, the box model, modern layout mechanisms (Flexbox, Grid), and responsive design with media queries. It shows a complete understanding of CSS fundamentals. You can elevate it further by discussing the 'cascading' aspect (specificity, inheritance) since that is fundamental to the name and behavior of CSS.",
+      "strengths": [
+        "Covers crucial layout topics like the Box Model, Flexbox, and CSS Grid.",
+        "Highlights responsive design concepts such as media queries.",
+        "Logically organized from application methods to layout techniques."
+      ],
+      "improvements": [
+        "Explain the cascading nature of CSS, including specificity and inheritance, which is often a key interview follow-up.",
+        "Keep the explanation slightly more concise to allow conversational flow during an interview."
+      ],
+      "idealAnswer": "CSS, or Cascading Style Sheets, is the stylesheet language responsible for the presentation and visual layout of HTML documents. It allows developers to control colors, typography, spacing, and layout. Crucial concepts include the CSS Box Model—consisting of content, padding, border, and margin—and the cascade, which resolves style conflicts through specificity and inheritance. Modern CSS relies heavily on Flexbox and Grid for flexible layouts, along with media queries to ensure responsive design across all screen sizes."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a high-level, dynamic programming language mainly used to make websites interactive and functional. It works together with HTML and CSS to create modern web applications. HTML provides the structure of a webpage, CSS handles its design and appearance, and JavaScript adds functionality and interactivity. Using JavaScript, developers can handle button clicks, validate forms, display messages, create animations, update webpage content dynamically, and communicate with servers through APIs. JavaScript supports different data types, such as strings, numbers, booleans, undefined, null, objects, and arrays. It also provides variables using `var`, `let`, and `const`, where `let` and `const` are commonly preferred in modern JavaScript. JavaScript includes important programming concepts such as functions, loops, conditional statements, objects, arrays, classes, and event handling. It supports modern ES6+ features such as arrow functions, template literals, destructuring, spread and rest operators, promises, async/await, and modules. JavaScript is also used for asynchronous programming, which allows applications to perform tasks such as fetching data from APIs without blocking the main execution flow. The Document Object Model (DOM) allows JavaScript to access and modify HTML elements and CSS styles dynamically. JavaScript can run in web browsers as well as on servers using Node.js. It is also widely used with frontend libraries and frameworks such as React.js, Angular, and Vue.js, and backend technologies such as Express.js. Overall, JavaScript is one of the most important technologies in web development because it helps developers build interactive, dynamic, responsive, and full-stack web applications.",
+      "score": 90,
+      "communication": 80,
+      "technicalKnowledge": 90,
+      "relevance": 90,
+      "answerStructure": 80,
+      "feedback": "A very solid explanation that demonstrates broad and accurate knowledge. You touched on execution environments, DOM manipulation, asynchronous programming, modern ES6+ syntax, and data types. To make this answer exceptional, mention JavaScript's execution nature, such as it being single-threaded and event-loop driven.",
+      "strengths": [
+        "Accurate coverage of modern ES6+ features and asynchronous concepts (Promises, async/await).",
+        "Clear explanation of DOM manipulation and client-server communication.",
+        "Highlights the versatile nature of JS running both in browsers and on Node.js."
+      ],
+      "improvements": [
+        "Include key runtime characteristics like being single-threaded, non-blocking, and utilizing the Event Loop.",
+        "Break down the answer into structured bullet points or short paragraphs verbally to avoid sounding like a long recited list."
+      ],
+      "idealAnswer": "JavaScript is a high-level, interpreted, single-threaded programming language that powers interactivity on the web. It operates in the browser to manipulate the DOM, respond to user events, and fetch data asynchronously using Promises and async/await without blocking the main thread. With ES6+ features like arrow functions and destructuring, and runtimes like Node.js, JavaScript has evolved from simple client-side scripting into a complete language for both frontend and backend development."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React.js is a popular, open-source JavaScript library developed by Facebook (now Meta) that is used to build interactive and dynamic user interfaces, especially for single-page applications. React allows developers to create websites using reusable components, which makes the code easier to maintain, understand, and reuse. A component is an independent and reusable part of a user interface, such as a navbar, button, login form, dashboard, or footer. React uses JSX (JavaScript XML), which allows developers to write HTML-like syntax inside JavaScript code. One of the most important features of React is the Virtual DOM, which helps update only the necessary parts of the webpage instead of reloading the entire page, improving performance. React provides hooks such as `useState`, `useEffect`, `useRef`, and `useContext` to manage state, handle side effects, access references, and share data between components. React also supports props, which are used to pass data from parent components to child components, and state, which manages data that can change over time. React Router is commonly used for navigation between different pages without refreshing the browser. React can communicate with backend servers using APIs and methods such as `fetch` and Axios to send and receive data. It is widely used with technologies such as Node.js, Express.js, and MongoDB to develop full-stack applications. For styling, React can be combined with CSS, Bootstrap, or Tailwind CSS. Overall, React.js makes frontend development faster, more organized, and more efficient by providing a component-based architecture and powerful tools for building modern, responsive, and user-friendly web applications.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 90,
+      "relevance": 90,
+      "answerStructure": 80,
+      "feedback": "You covered almost every fundamental concept in React: component architecture, JSX, Virtual DOM, unidirectional data flow (props), local state, and modern hooks. The explanation is accurate, clear, and perfectly tailored for a junior frontend role. To polish it further, you can explain briefly how the Virtual DOM reconciliation/diffing process works.",
+      "strengths": [
+        "Accurately defines React as a library for building UIs, not a full framework.",
+        "Explains essential core primitives: components, JSX, props, state, and React Hooks.",
+        "Explains the purpose of the Virtual DOM clearly."
+      ],
+      "improvements": [
+        "Mention unidirectional (one-way) data flow explicitly, as it is a core design principle of React.",
+        "Explain briefly that the Virtual DOM works via a diffing algorithm that reconciles UI changes efficiently."
+      ],
+      "idealAnswer": "React is an open-source JavaScript library developed by Meta for building user interfaces, primarily for single-page applications. It is built on a declarative, component-based architecture with unidirectional data flow. React uses JSX to describe UI structure, and uses a Virtual DOM with a reconciliation diffing algorithm to update only the changed parts of the real DOM efficiently. State and lifecycle behaviors are managed seamlessly using React Hooks such as useState and useEffect."
+    }
+  ],
+  "answers": [],
+  "score": 88,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-11-09T08:15:13.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6af186205f7a93d205a47a26"
+  },
+  "role": "Frontend Developer",
+  "experience": "Beginner",
+  "questions": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "Hello, my name is Lovepreet Kaur. I am a passionate and motivated aspiring Full Stack Developer with knowledge of HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB. I enjoy developing user-friendly and responsive web applications and solving real-world problems through technology. I have worked on projects like an AI-powered Mock Interview application, where I implemented features such as user authentication, interview evaluation using AI, voice-based interviews, and Razorpay payment integration. I am always eager to learn new technologies, improve my technical skills, and take on new challenges. My goal is to grow as a developer and contribute to meaningful projects.",
+      "score": 80,
+      "communication": 80,
+      "technicalKnowledge": 80,
+      "relevance": 80,
+      "answerStructure": 90,
+      "feedback": "Your introduction is clear, well-structured, and highlights relevant project experience. Mentioning key features like AI integration and Razorpay payment showcases practical hands-on capability. However, since the target position is a Frontend Developer, introduce yourself with a stronger emphasis on frontend development before highlighting full-stack capabilities, so your focus matches the job role.",
+      "strengths": [
+        "Clearly articulated your technical stack and project highlights.",
+        "Highlighted tangible features you personally built, such as voice-based interviews and payment gateways.",
+        "Professional tone and positive closing statement."
+      ],
+      "improvements": [
+        "Tailor your opening pitch directly to the Frontend Developer role rather than framing yourself primarily as full-stack.",
+        "Briefly mention your academic background or current career stage (e.g., recent computer science graduate or career switcher)."
+      ],
+      "idealAnswer": "Hi, my name is Lovepreet Kaur. I am a frontend-focused developer passionate about creating responsive, accessible, and high-performance web applications using HTML, CSS, JavaScript, and React.js. I have also built full-stack applications with Node.js and MongoDB. Recently, I developed an AI-powered Mock Interview application where I built interactive UI components for voice-based interviews, integrated payment flows with Razorpay, and managed state efficiently. I am excited about frontend engineering because I love translating complex designs into clean user experiences, and I am looking forward to contributing to your engineering team."
+    },
+    {
+      "question": "What is HTML?",
+      "answer": "HTML (HyperText Markup Language) is the standard markup language used to create and structure web pages. It provides the basic structure of a website by using different elements and tags. HTML tells the browser how to display content such as headings, paragraphs, images, links, tables, lists, forms, buttons, and other elements. An HTML document generally starts with the `<!DOCTYPE html>` declaration, followed by the `<html>`, `<head>`, and `<body>` elements. The `<head>` section contains information about the webpage, such as its title, metadata, character encoding, and links to external CSS files, while the `<body>` section contains the visible content displayed to users. HTML provides semantic elements such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>`, which help organize content and improve accessibility and SEO. It also supports forms using elements like `<form>`, `<input>`, `<label>`, `<textarea>`, and `<button>`, allowing users to enter and submit information. HTML works together with CSS and JavaScript: HTML creates the structure, CSS controls the design and layout, and JavaScript adds interactivity and dynamic functionality. Modern HTML5 also supports audio, video, graphics, and multimedia without requiring additional plugins. HTML is easy to learn, platform-independent, and supported by all modern web browsers. It is the foundation of frontend web development, and understanding HTML is essential for creating responsive, accessible, and user-friendly websites.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 100,
+      "relevance": 100,
+      "answerStructure": 90,
+      "feedback": "This is an exceptionally thorough and technically accurate answer for an entry-level candidate. You covered the document skeleton, semantics, SEO, accessibility, forms, and multimedia capabilities. To sound more conversational in an actual live interview, summarize the definition upfront and avoid reciting an overly textbook paragraph all at once.",
+      "strengths": [
+        "Included critical modern concepts like semantic tags, accessibility, and SEO.",
+        "Accurately broke down the document structure including doctype, head, and body.",
+        "Explained the distinct roles of HTML, CSS, and JavaScript in the web ecosystem."
+      ],
+      "improvements": [
+        "Make your delivery more concise and conversational rather than reading like an encyclopedia definition.",
+        "Highlight a brief real-world example of how semantic elements improve accessibility or screen-reader navigation."
+      ],
+      "idealAnswer": "HTML stands for HyperText Markup Language and serves as the structural backbone of every webpage. It organizes and defines content using tags and elements. A standard HTML5 document begins with `<!DOCTYPE html>` and splits into the `<head>` for metadata and the `<body>` for visible content. As a frontend developer, I prioritize semantic HTML5 elements like `<main>`, `<nav>`, and `<article>` because they provide meaningful structure, improve SEO, and make web applications accessible to assistive technologies."
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS (Cascading Style Sheets) is a stylesheet language used to design and style HTML webpages. It controls how HTML elements appear in a browser by defining properties such as colors, fonts, backgrounds, borders, margins, padding, width, height, alignment, and spacing. CSS helps developers create attractive, responsive, and user-friendly websites. There are three main ways to apply CSS: inline CSS, internal CSS, and external CSS. Inline CSS is written directly inside an HTML element using the `style` attribute, internal CSS is written inside the `<style>` tag in the HTML document, and external CSS is written in a separate `.css` file and connected to HTML using the `<link>` tag. CSS uses selectors to target HTML elements and apply styles to them. Common selectors include element selectors, class selectors, ID selectors, universal selectors, and attribute selectors. CSS also provides the box model, which consists of content, padding, border, and margin, helping developers control the size and spacing of elements. Modern CSS includes Flexbox and CSS Grid for creating flexible and complex layouts. It also supports transitions, transformations, animations, hover effects, and media queries. Media queries are especially useful for responsive web design because they allow websites to adjust their layout according to different screen sizes, such as mobile phones, tablets, and desktops. CSS works together with HTML and JavaScript: HTML provides the structure, CSS handles the presentation, and JavaScript adds functionality and interactivity. Overall, CSS is an essential technology in frontend development because it improves the appearance, usability, consistency, and responsiveness of websites.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 100,
+      "relevance": 100,
+      "answerStructure": 90,
+      "feedback": "An excellent explanation that covers all key fundamentals of CSS, including inclusion methods, selectors, the box model, modern layout mechanisms (Flexbox and Grid), and responsiveness via media queries. Keep your delivery natural and prioritize which points to expand on based on follow-up questions.",
+      "strengths": [
+        "Accurate coverage of foundational concepts like the CSS Box Model.",
+        "Mentioned modern layout techniques including Flexbox, CSS Grid, and media queries.",
+        "Clearly explained the three ways to link and apply styles to an HTML document."
+      ],
+      "improvements": [
+        "Mention specificity and the cascade, which are central to how CSS resolves conflicting rules.",
+        "Condense the list of properties to keep the verbal response focused and punchy."
+      ],
+      "idealAnswer": "CSS, or Cascading Style Sheets, is the language responsible for the presentation, layout, and visual styling of web documents. It works by targeting HTML elements using selectors and applying properties. Key concepts include the cascade and specificity rules, the Box Model—which defines content, padding, border, and margin—and modern layout tools like Flexbox and CSS Grid. Additionally, CSS enables responsive web design through media queries, ensuring web pages adapt gracefully across all screen sizes."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a high-level, dynamic programming language mainly used to make websites interactive and functional. It works together with HTML and CSS to create modern web applications. HTML provides the structure of a webpage, CSS handles its design and appearance, and JavaScript adds functionality and interactivity. Using JavaScript, developers can handle button clicks, validate forms, display messages, create animations, update webpage content dynamically, and communicate with servers through APIs. JavaScript supports different data types, such as strings, numbers, booleans, undefined, null, objects, and arrays. It also provides variables using `var`, `let`, and `const`, where `let` and `const` are commonly preferred in modern JavaScript. JavaScript includes important programming concepts such as functions, loops, conditional statements, objects, arrays, classes, and event handling. It supports modern ES6+ features such as arrow functions, template literals, destructuring, spread and rest operators, promises, async/await, and modules. JavaScript is also used for asynchronous programming, which allows applications to perform tasks such as fetching data from APIs without blocking the main execution flow. The Document Object Model (DOM) allows JavaScript to access and modify HTML elements and CSS styles dynamically. JavaScript can run in web browsers as well as on servers using Node.js. It is also widely used with frontend libraries and frameworks such as React.js, Angular, and Vue.js, and backend technologies such as Express.js. Overall, JavaScript is one of the most important technologies in web development because it helps developers build interactive, dynamic, responsive, and full-stack web applications.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 100,
+      "relevance": 100,
+      "answerStructure": 90,
+      "feedback": "You provided an extensive and technically accurate overview of JavaScript. Touching upon ES6+ features, DOM manipulation, asynchronous programming, and cross-platform execution with Node.js demonstrates solid understanding for a beginner frontend developer.",
+      "strengths": [
+        "Addressed core runtime characteristics including asynchronous execution and non-blocking I/O.",
+        "Explicitly highlighted modern ES6+ standards and DOM manipulation.",
+        "Clearly explained how JavaScript interacts with the server through APIs."
+      ],
+      "improvements": [
+        "Mention that JavaScript is fundamentally single-threaded and utilizes an Event Loop to handle asynchronous operations.",
+        "Streamline the enumeration of standard programming concepts (loops, functions) to focus more on JavaScript-specific mechanics like closures and scopes."
+      ],
+      "idealAnswer": "JavaScript is a high-level, single-threaded, interpreted programming language that adds dynamic interactivity to web applications. While HTML provides structure and CSS handles styling, JavaScript powers logic, user events, and DOM manipulation. Key frontend aspects include handling asynchronous operations using Promises and `async/await` to fetch data without freezing the UI, leveraging modern ES6+ features like destructuring and arrow functions, and utilizing the Event Loop to manage concurrency. With engines like V8 and platforms like Node.js, it powers both client-side and server-side execution."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React.js is a popular, open-source JavaScript library developed by Facebook (now Meta) that is used to build interactive and dynamic user interfaces, especially for single-page applications. React allows developers to create websites using reusable components, which makes the code easier to maintain, understand, and reuse. A component is an independent and reusable part of a user interface, such as a navbar, button, login form, dashboard, or footer. React uses JSX (JavaScript XML), which allows developers to write HTML-like syntax inside JavaScript code. One of the most important features of React is the Virtual DOM, which helps update only the necessary parts of the webpage instead of reloading the entire page, improving performance. React provides hooks such as `useState`, `useEffect`, `useRef`, and `useContext` to manage state, handle side effects, access references, and share data between components. React also supports props, which are used to pass data from parent components to child components, and state, which manages data that can change over time. React Router is commonly used for navigation between different pages without refreshing the browser. React can communicate with backend servers using APIs and methods such as `fetch` and Axios to send and receive data. It is widely used with technologies such as Node.js, Express.js, and MongoDB to develop full-stack applications. For styling, React can be combined with CSS, Bootstrap, or Tailwind CSS. Overall, React.js makes frontend development faster, more organized, and more efficient by providing a component-based architecture and powerful tools for building modern, responsive, and user-friendly web applications.",
+      "score": 90,
+      "communication": 90,
+      "technicalKnowledge": 100,
+      "relevance": 100,
+      "answerStructure": 90,
+      "feedback": "This is a comprehensive response that correctly identifies React as a UI library rather than a full framework, explains component-based architecture, JSX, Virtual DOM, and modern React Hooks. The distinction between props and state is well communicated.",
+      "strengths": [
+        "Accurately categorized React as a library rather than a framework.",
+        "Clear explanation of core React mechanisms: JSX, the Virtual DOM, and unidirectional data flow (props vs state).",
+        "Named appropriate built-in hooks (`useState`, `useEffect`, `useContext`) and their specific purposes."
+      ],
+      "improvements": [
+        "Explain briefly how reconciliation works with the Virtual DOM (diffing algorithm).",
+        "Keep the focus sharply on frontend UI concepts, spending less time listing generic styling libraries and database stacks."
+      ],
+      "idealAnswer": "React is an open-source JavaScript library developed by Meta for building component-driven user interfaces, particularly for Single Page Applications (SPAs). Its primary strength lies in declarative, reusable components and efficient rendering via the Virtual DOM, which compares snapshots using a diffing algorithm and updates only changed nodes in the real DOM. React manages data through immutable 'props' passed top-down and mutable local 'state'. With modern React, functional components use Hooks like `useState` for state management and `useEffect` for handling side effects and data fetching."
+    }
+  ],
+  "answers": [],
+  "score": 88,
+  "durationMinutes": 12,
+  "date": {
+    "$date": "2026-11-09T08:36:48.080Z"
+  },
+  "__v": 0
+}]

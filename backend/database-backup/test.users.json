@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6ac50a06c7a309d685e8f6f8"
+  },
+  "name": "lvi",
+  "email": "lvi@gmail.com",
+  "password": "$2b$10$Ht3kdCON40VGKcJ.gmi36.egXRMvNXkKz9Yj2QfaOGwOMUCIeydJm",
+  "__v": 0,
+  "plan": "Pro",
+  "planActivatedAt": {
+    "$date": "2026-11-05T04:40:10.361Z"
+  },
+  "planExpiresAt": {
+    "$date": "2026-12-06T01:21:33.136Z"
+  },
+  "updatedAt": {
+    "$date": "2026-11-06T01:21:33.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6addef677e89403720e4d0c0"
+  },
+  "name": "lavi",
+  "email": "lavi@gmail.com",
+  "password": "$2b$10$AcIMr66ebjmHaUlHQsdlWefR7qY2yVN6pMYc.VxbJGbbFnT.uApPC",
+  "__v": 0
+}]
