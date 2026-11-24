@@ -31,7 +31,7 @@ function Dashboard() {
       }
 
       const response = await fetch(
-        "http://localhost:5000/interviews",
+        "https://mockinterview-hmtp.onrender.com/interviews",
         {
           method: "GET",
           headers: {

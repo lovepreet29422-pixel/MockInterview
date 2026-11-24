@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://mockinterview-hmtp.onrender.com";
 
 // Convert Gemini score (0-10) into percentage (0-100).
 const toPercent = (value) => {
