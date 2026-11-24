@@ -31,7 +31,7 @@ function Dashboard() {
       }
 
       const response = await fetch(
-        "https://mockinterview-hmtp.onrender.com/interviews",
+        "https://mockinterview-c8gh.onrender.com/interviews",
         {
           method: "GET",
           headers: {

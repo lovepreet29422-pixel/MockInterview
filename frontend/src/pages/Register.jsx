@@ -13,7 +13,7 @@ function Register() {
 
   try {
     const response = await fetch(
-      "https://mockinterview-hmtp.onrender.com/api/register",
+      "https://mockinterview-c8gh.onrender.com/api/register",
       {
         method: "POST",
         headers: {

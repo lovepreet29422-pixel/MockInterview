@@ -12,7 +12,7 @@ function Login() {
 
   try {
     const response = await fetch(
-      "https://mockinterview-hmtp.onrender.com/api/login",
+      "https://mockinterview-c8gh.onrender.com/api/login",
       {
         method: "POST",
         headers: {

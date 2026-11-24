@@ -88,7 +88,7 @@ const Pricing = () => {
 
       // Step 2: Create order from backend
       const orderResponse = await fetch(
-        "https://mockinterview-hmtp.onrender.com/api/payment/create-order",
+        "https://mockinterview-c8gh.onrender.com/api/payment/create-order",
         {
           method: "POST",
           headers: {
@@ -129,7 +129,7 @@ const Pricing = () => {
         handler: async function (response) {
           try {
             const verifyResponse = await fetch(
-              "https://mockinterview-hmtp.onrender.com/api/payment/verify",
+              "https://mockinterview-c8gh.onrender.com/api/payment/verify",
               {
                 method: "POST",
                 headers: {
